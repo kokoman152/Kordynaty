@@ -1,0 +1,2 @@
+# Kordynaty
+Liczenie kordynatow
